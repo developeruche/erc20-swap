@@ -1,0 +1,1 @@
+This is where migration would be created to place the contract on the blockchian
